@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+11/10/2019
 
 ### Project Title
-Replace the Project Title
+bikeshare data analysis
 
 ### Description
-Describe what your project is about and what it does
+The purpose of this code to provide bikeshare analyzed statistics based on the user selection and filteration. 
+And to provide raw data for the user if requested. 
 
 ### Files used
-Include the files used
-
+bikeshare.py
+3 CSV files that include sample data from bikeshare
+2 Read me files
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bikeshare co.
+Hussain Alhubail
+udacity
 
