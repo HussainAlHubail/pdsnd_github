@@ -19,8 +19,8 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    #### Using PyInquirer to have a fancy user interaction instead of bothering with typing :)
-    #Getting City
+    #### Using PyInquirer to have a fancy user interaction instead of bothering with typing
+    #Getting City data
     questions = [
         {
             'type': 'list',
