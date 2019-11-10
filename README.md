@@ -2,7 +2,7 @@
 11/10/2019
 
 ### Project Title
-bikeshare data analysis
+Bikeshare data analysis
 
 ### Description
 The purpose of this code to provide bikeshare analyzed statistics based on the user selection and filteration. 
