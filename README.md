@@ -15,5 +15,5 @@ bikeshare.py
 ### Credits
 bikeshare co.
 Hussain Alhubail
-udacity
-
+Udacity
+Misk Academy
